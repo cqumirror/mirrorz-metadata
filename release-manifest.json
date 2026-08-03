@@ -421,29 +421,29 @@
     },
     "releases": [
       {
-        "version": "v2.11.1",
-        "tag": "v2.11.1",
+        "version": "v3.0.8",
+        "tag": "v3.0.8",
         "files": [
-          "Escrcpy-2.11.1-linux-amd64.deb",
-          "Escrcpy-2.11.1-linux-arm64.AppImage",
-          "Escrcpy-2.11.1-linux-arm64.deb",
-          "Escrcpy-2.11.1-linux-x86_64.AppImage",
-          "Escrcpy-2.11.1-mac-arm64.dmg",
-          "Escrcpy-2.11.1-mac-x64.dmg",
-          "Escrcpy-2.11.1-win-portable-arm64.exe",
-          "Escrcpy-2.11.1-win-portable-x64.exe",
-          "Escrcpy-2.11.1-win-portable.exe",
-          "Escrcpy-2.11.1-win-setup-arm64.exe",
-          "Escrcpy-2.11.1-win-setup-x64.exe",
-          "Escrcpy-2.11.1-win-setup.exe"
+          "Escrcpy-3.0.8-linux-amd64.deb",
+          "Escrcpy-3.0.8-linux-arm64.AppImage",
+          "Escrcpy-3.0.8-linux-arm64.deb",
+          "Escrcpy-3.0.8-linux-x86_64.AppImage",
+          "Escrcpy-3.0.8-mac-arm64.dmg",
+          "Escrcpy-3.0.8-mac-x64.dmg",
+          "Escrcpy-3.0.8-win-portable-arm64.exe",
+          "Escrcpy-3.0.8-win-portable-x64.exe",
+          "Escrcpy-3.0.8-win-portable.exe",
+          "Escrcpy-3.0.8-win-setup-arm64.exe",
+          "Escrcpy-3.0.8-win-setup-x64.exe",
+          "Escrcpy-3.0.8-win-setup.exe"
         ],
-        "published_at": "2026-05-19T07:48:59Z",
+        "published_at": "2026-08-03T08:31:25Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v2.11.1",
-      "tag": "v2.11.1"
+      "version": "v3.0.8",
+      "tag": "v3.0.8"
     }
   },
   "niXman/mingw-builds-binaries": {
