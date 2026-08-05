@@ -666,8 +666,8 @@
     },
     "releases": [
       {
-        "version": "v0.17.3",
-        "tag": "v0.17.3",
+        "version": "v0.17.4",
+        "tag": "v0.17.4",
         "files": [
           "eim-cli-linux-aarch64-aarch64.pkg.tar.zst",
           "eim-cli-linux-aarch64.deb",
@@ -683,7 +683,7 @@
           "eim-cli-linux-x64.zip",
           "eim-cli-macos-aarch64.zip",
           "eim-cli-macos-x64.zip",
-          "eim-cli-windows-x64_v0.17.3.exe",
+          "eim-cli-windows-x64_v0.17.4.exe",
           "eim-cli.json",
           "eim-gui-linux-aarch64-aarch64.pkg.tar.zst",
           "eim-gui-linux-aarch64.deb",
@@ -698,22 +698,22 @@
           "eim-gui-macos-x64.dmg",
           "eim-gui-macos-x64.zip",
           "eim-gui-windows-x64.msi",
-          "eim-gui-windows-x64_v0.17.3.exe",
+          "eim-gui-windows-x64_v0.17.4.exe",
           "eim.json",
           "offline_installer_builder-linux-aarch64.zip",
           "offline_installer_builder-linux-armv7.zip",
           "offline_installer_builder-linux-x64.zip",
           "offline_installer_builder-macos-aarch64.zip",
           "offline_installer_builder-macos-x64.zip",
-          "offline_installer_builder-windows-x64_v0.17.3.exe"
+          "offline_installer_builder-windows-x64_v0.17.4.exe"
         ],
-        "published_at": "2026-07-31T18:13:52Z",
+        "published_at": "2026-08-04T09:46:10Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v0.17.3",
-      "tag": "v0.17.3"
+      "version": "v0.17.4",
+      "tag": "v0.17.4"
     }
   },
   "deepin-community/deepin-WSL": {
