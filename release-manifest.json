@@ -666,29 +666,35 @@
     },
     "releases": [
       {
-        "version": "v0.17.4",
-        "tag": "v0.17.4",
+        "version": "v0.18.0",
+        "tag": "v0.18.0",
         "files": [
           "eim-cli-linux-aarch64-aarch64.pkg.tar.zst",
+          "eim-cli-linux-aarch64-v0.18.0.zip",
           "eim-cli-linux-aarch64.deb",
           "eim-cli-linux-aarch64.rpm",
           "eim-cli-linux-aarch64.zip",
           "eim-cli-linux-armv7-armv7h.pkg.tar.zst",
+          "eim-cli-linux-armv7-v0.18.0.zip",
           "eim-cli-linux-armv7.deb",
           "eim-cli-linux-armv7.rpm",
           "eim-cli-linux-armv7.zip",
+          "eim-cli-linux-x64-v0.18.0.zip",
           "eim-cli-linux-x64-x86_64.pkg.tar.zst",
           "eim-cli-linux-x64.deb",
           "eim-cli-linux-x64.rpm",
           "eim-cli-linux-x64.zip",
           "eim-cli-macos-aarch64.zip",
           "eim-cli-macos-x64.zip",
-          "eim-cli-windows-x64_v0.17.4.exe",
+          "eim-cli-windows-x64-v0.18.0.exe",
+          "eim-cli-windows-x64.exe",
           "eim-cli.json",
           "eim-gui-linux-aarch64-aarch64.pkg.tar.zst",
+          "eim-gui-linux-aarch64-v0.18.0.zip",
           "eim-gui-linux-aarch64.deb",
           "eim-gui-linux-aarch64.rpm",
           "eim-gui-linux-aarch64.zip",
+          "eim-gui-linux-x64-v0.18.0.zip",
           "eim-gui-linux-x64-x86_64.pkg.tar.zst",
           "eim-gui-linux-x64.deb",
           "eim-gui-linux-x64.rpm",
@@ -697,23 +703,28 @@
           "eim-gui-macos-aarch64.zip",
           "eim-gui-macos-x64.dmg",
           "eim-gui-macos-x64.zip",
+          "eim-gui-windows-x64-v0.18.0.exe",
+          "eim-gui-windows-x64.exe",
           "eim-gui-windows-x64.msi",
-          "eim-gui-windows-x64_v0.17.4.exe",
           "eim.json",
+          "offline_installer_builder-linux-aarch64-v0.18.0.zip",
           "offline_installer_builder-linux-aarch64.zip",
+          "offline_installer_builder-linux-armv7-v0.18.0.zip",
           "offline_installer_builder-linux-armv7.zip",
+          "offline_installer_builder-linux-x64-v0.18.0.zip",
           "offline_installer_builder-linux-x64.zip",
           "offline_installer_builder-macos-aarch64.zip",
           "offline_installer_builder-macos-x64.zip",
-          "offline_installer_builder-windows-x64_v0.17.4.exe"
+          "offline_installer_builder-windows-x64-v0.18.0.exe",
+          "offline_installer_builder-windows-x64.exe"
         ],
-        "published_at": "2026-08-04T09:46:10Z",
+        "published_at": "2026-08-10T12:34:05Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v0.17.4",
-      "tag": "v0.17.4"
+      "version": "v0.18.0",
+      "tag": "v0.18.0"
     }
   },
   "deepin-community/deepin-WSL": {
