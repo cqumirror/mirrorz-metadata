@@ -459,27 +459,16 @@
     },
     "releases": [
       {
-        "version": "Release of 16.1.0-rt_v14-rev1",
-        "tag": "16.1.0-rt_v14-rev1",
-        "files": [
-          "i686-16.1.0-release-mcf-dwarf-ucrt-rt_v14-rev1.7z",
-          "i686-16.1.0-release-posix-dwarf-msvcrt-rt_v14-rev1.7z",
-          "i686-16.1.0-release-posix-dwarf-ucrt-rt_v14-rev1.7z",
-          "i686-16.1.0-release-win32-dwarf-msvcrt-rt_v14-rev1.7z",
-          "i686-16.1.0-release-win32-dwarf-ucrt-rt_v14-rev1.7z",
-          "x86_64-16.1.0-release-mcf-seh-ucrt-rt_v14-rev1.7z",
-          "x86_64-16.1.0-release-posix-seh-msvcrt-rt_v14-rev1.7z",
-          "x86_64-16.1.0-release-posix-seh-ucrt-rt_v14-rev1.7z",
-          "x86_64-16.1.0-release-win32-seh-msvcrt-rt_v14-rev1.7z",
-          "x86_64-16.1.0-release-win32-seh-ucrt-rt_v14-rev1.7z"
-        ],
-        "published_at": "2026-05-23T16:33:11Z",
+        "version": "Release of 16.2.0-rt_v14-rev1",
+        "tag": "16.2.0-rt_v14-rev1",
+        "files": [],
+        "published_at": "2026-08-14T08:27:01Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "Release of 16.1.0-rt_v14-rev1",
-      "tag": "16.1.0-rt_v14-rev1"
+      "version": "Release of 16.2.0-rt_v14-rev1",
+      "tag": "16.2.0-rt_v14-rev1"
     }
   },
   "msys2/msys2-installer": {
