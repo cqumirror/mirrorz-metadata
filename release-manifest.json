@@ -72,20 +72,20 @@
     },
     "releases": [
       {
-        "version": "OBS Studio 32.2.1",
-        "tag": "32.2.1",
+        "version": "OBS Studio 32.2.2",
+        "tag": "32.2.2",
         "files": [
-          "OBS-Studio-32.2.1-macOS-Apple.dmg",
-          "OBS-Studio-32.2.1-macOS-Intel.dmg",
-          "OBS-Studio-32.2.1-Windows-x64-Installer.exe"
+          "OBS-Studio-32.2.2-macOS-Apple.dmg",
+          "OBS-Studio-32.2.2-macOS-Intel.dmg",
+          "OBS-Studio-32.2.2-Windows-x64-Installer.exe"
         ],
-        "published_at": "2026-07-24T22:58:26Z",
+        "published_at": "2026-08-14T22:43:31Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "OBS Studio 32.2.1",
-      "tag": "32.2.1"
+      "version": "OBS Studio 32.2.2",
+      "tag": "32.2.2"
     }
   },
   "balena-io/etcher": {
