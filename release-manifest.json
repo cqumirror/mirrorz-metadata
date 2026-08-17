@@ -10,8 +10,54 @@
       "desc": "一个强大且实用的 Office 部署与管理工具。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "Office Tool Plus v11.6.6.0",
+        "tag": "v11.6.6.0",
+        "files": [
+          "Office_Tool_v11.6.6.0_arm64.zip",
+          "Office_Tool_v11.6.6.0_x64.zip",
+          "Office_Tool_with_runtime_v11.6.6.0_arm64.7z",
+          "Office_Tool_with_runtime_v11.6.6.0_arm64.zip",
+          "Office_Tool_with_runtime_v11.6.6.0_x64.7z",
+          "Office_Tool_with_runtime_v11.6.6.0_x64.zip"
+        ],
+        "published_at": "2026-08-12T05:27:12Z",
+        "pre_release": false
+      },
+      {
+        "version": "Office Tool Plus v11.5.7.0",
+        "tag": "v11.5.7.0",
+        "files": [
+          "Office_Tool_v11.5.7.0_arm64.zip",
+          "Office_Tool_v11.5.7.0_x64.zip",
+          "Office_Tool_with_runtime_v11.5.7.0_arm64.7z",
+          "Office_Tool_with_runtime_v11.5.7.0_arm64.zip",
+          "Office_Tool_with_runtime_v11.5.7.0_x64.7z",
+          "Office_Tool_with_runtime_v11.5.7.0_x64.zip"
+        ],
+        "published_at": "2026-06-10T05:22:59Z",
+        "pre_release": false
+      },
+      {
+        "version": "Office Tool Plus v11.4.17.0",
+        "tag": "v11.4.17.0",
+        "files": [
+          "Office_Tool_v11.4.17.0_arm64.zip",
+          "Office_Tool_v11.4.17.0_x64.zip",
+          "Office_Tool_with_runtime_v11.4.17.0_arm64.7z",
+          "Office_Tool_with_runtime_v11.4.17.0_arm64.zip",
+          "Office_Tool_with_runtime_v11.4.17.0_x64.7z",
+          "Office_Tool_with_runtime_v11.4.17.0_x64.zip"
+        ],
+        "published_at": "2026-05-29T14:20:56Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "Office Tool Plus v11.6.6.0",
+      "tag": "v11.6.6.0"
+    }
   },
   "obsproject/obs-studio": {
     "config": {
@@ -24,8 +70,23 @@
       "desc": "免费开源的跨平台视频直播录制与屏幕捕捉软件。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "OBS Studio 32.2.2",
+        "tag": "32.2.2",
+        "files": [
+          "OBS-Studio-32.2.2-macOS-Apple.dmg",
+          "OBS-Studio-32.2.2-macOS-Intel.dmg",
+          "OBS-Studio-32.2.2-Windows-x64-Installer.exe"
+        ],
+        "published_at": "2026-08-14T22:43:31Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "OBS Studio 32.2.2",
+      "tag": "32.2.2"
+    }
   },
   "balena-io/etcher": {
     "config": {
@@ -38,8 +99,27 @@
       "desc": "安全易用的跨平台 OS 镜像烧录工具，支持将镜像写入 SD 卡或 USB 驱动器。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "v2.1.6",
+        "tag": "v2.1.6",
+        "files": [
+          "balenaEtcher-2.1.6-arm64.dmg",
+          "balenaEtcher-2.1.6-x64.dmg",
+          "balenaEtcher-2.1.6.Setup.exe",
+          "SHA256SUMS.Darwin.arm64.txt",
+          "SHA256SUMS.Darwin.x64.txt",
+          "SHA256SUMS.Linux.x64.txt",
+          "SHA256SUMS.Windows.x64.txt"
+        ],
+        "published_at": "2026-05-13T16:40:26Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "v2.1.6",
+      "tag": "v2.1.6"
+    }
   },
   "lxgw/LxgwWenKai": {
     "config": {
@@ -51,8 +131,28 @@
       "name": "霞鹜文楷",
       "desc": "基于 Klee One 的开源中文字体，兼有仿宋和楷体特点，可读性高，免费可商用。"
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "v1.522 26/03/17",
+        "tag": "v1.522",
+        "files": [
+          "lxgw-wenkai-v1.522.tar.gz",
+          "lxgw-wenkai-v1.522.zip",
+          "LXGWWenKai-Light.ttf",
+          "LXGWWenKai-Medium.ttf",
+          "LXGWWenKai-Regular.ttf",
+          "LXGWWenKaiMono-Light.ttf",
+          "LXGWWenKaiMono-Medium.ttf",
+          "LXGWWenKaiMono-Regular.ttf"
+        ],
+        "published_at": "2026-03-17T15:15:14Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "v1.522 26/03/17",
+      "tag": "v1.522"
+    }
   },
   "lxgw/LxgwWenKai-Screen": {
     "config": {
@@ -64,8 +164,24 @@
       "name": "霞鹜文楷 屏幕阅读版",
       "desc": "霞鹜文楷的屏幕舒适阅读版本，针对 PC 和 Android 屏幕优化了字重与显示效果。"
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "v1.522",
+        "tag": "v1.522",
+        "files": [
+          "LXGWWenKaiGBScreen.ttf",
+          "LXGWWenKaiMonoGBScreen.ttf",
+          "LXGWWenKaiMonoScreen.ttf",
+          "LXGWWenKaiScreen.ttf"
+        ],
+        "published_at": "2026-03-18T16:41:47Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "v1.522",
+      "tag": "v1.522"
+    }
   },
   "lxgw/LxgwWenKai-Lite": {
     "config": {
@@ -77,8 +193,28 @@
       "name": "霞鹜文楷 Lite",
       "desc": "霞鹜文楷的轻量版本，在保留核心字符集的基础上减小了字体体积。"
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "v1.522 26/03/17",
+        "tag": "v1.522",
+        "files": [
+          "lxgw-wenkai-lite-v1.522.tar.gz",
+          "lxgw-wenkai-lite-v1.522.zip",
+          "LXGWWenKaiLite-Light.ttf",
+          "LXGWWenKaiLite-Medium.ttf",
+          "LXGWWenKaiLite-Regular.ttf",
+          "LXGWWenKaiMonoLite-Light.ttf",
+          "LXGWWenKaiMonoLite-Medium.ttf",
+          "LXGWWenKaiMonoLite-Regular.ttf"
+        ],
+        "published_at": "2026-03-17T15:10:36Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "v1.522 26/03/17",
+      "tag": "v1.522"
+    }
   },
   "lxgw/LxgwWenkaiGB": {
     "config": {
@@ -90,8 +226,28 @@
       "name": "霞鹜文楷 GB",
       "desc": "霞鹜文楷的 GB 版本，调整字形和笔形，符合 G 源字形规范。"
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "v1.522 26/03/17",
+        "tag": "v1.522",
+        "files": [
+          "lxgw-wenkai-gb-v1.522.tar.gz",
+          "lxgw-wenkai-gb-v1.522.zip",
+          "LXGWWenKaiGB-Light.ttf",
+          "LXGWWenKaiGB-Medium.ttf",
+          "LXGWWenKaiGB-Regular.ttf",
+          "LXGWWenKaiMonoGB-Light.ttf",
+          "LXGWWenKaiMonoGB-Medium.ttf",
+          "LXGWWenKaiMonoGB-Regular.ttf"
+        ],
+        "published_at": "2026-03-17T15:03:02Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "v1.522 26/03/17",
+      "tag": "v1.522"
+    }
   },
   "lxgw/LxgwWenkaiTC": {
     "config": {
@@ -136,8 +292,39 @@
       "name": "得意黑",
       "desc": "一款在人文观感和几何特征中寻找平衡的中文黑体，字身窄而斜，开源免费可商用。"
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "Smiley Sans v2.0.1",
+        "tag": "v2.0.1",
+        "files": [
+          "smiley-sans-v2.0.1.zip"
+        ],
+        "published_at": "2024-02-07T10:27:43Z",
+        "pre_release": false
+      },
+      {
+        "version": "Smiley Sans v2.0.0",
+        "tag": "v2.0.0",
+        "files": [
+          "smiley-sans-v2.0.0.zip"
+        ],
+        "published_at": "2024-02-06T17:58:30Z",
+        "pre_release": false
+      },
+      {
+        "version": "Smiley Sans v1.1.1",
+        "tag": "v1.1.1",
+        "files": [
+          "smiley-sans-v1.1.1.zip"
+        ],
+        "published_at": "2023-01-07T09:09:49Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "Smiley Sans v2.0.1",
+      "tag": "v2.0.1"
+    }
   },
   "microsoft/WSL": {
     "config": {
@@ -150,8 +337,23 @@
       "desc": "Microsoft 开发的 Windows 功能，允许开发者直接在 Windows 上运行 GNU/Linux 环境。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "2.7.11",
+        "tag": "2.7.11",
+        "files": [
+          "Microsoft.WSL_2.7.11.0_x64_ARM64.msixbundle",
+          "wsl.2.7.11.0.arm64.msi",
+          "wsl.2.7.11.0.x64.msi"
+        ],
+        "published_at": "2026-07-24T16:59:19Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "2.7.11",
+      "tag": "2.7.11"
+    }
   },
   "mofeng-git/One-KVM": {
     "config": {
@@ -164,8 +366,48 @@
       "desc": "基于廉价硬件和 PiKVM 软件的 BIOS 级远程控制方案，实现 IP-KVM 功能。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "One-KVM Rust 0.2.6（260802）",
+        "tag": "v260802",
+        "files": [
+          "one-kvm_0.2.6_amd64.deb",
+          "one-kvm_0.2.6_amd64.exe",
+          "one-kvm_0.2.6_arm64.deb",
+          "one-kvm_0.2.6_armhf.deb"
+        ],
+        "published_at": "2026-08-02T09:29:44Z",
+        "pre_release": false
+      },
+      {
+        "version": "One-KVM Rust 0.2.5（260720）",
+        "tag": "v260720",
+        "files": [
+          "one-kvm_0.2.5_amd64.deb",
+          "one-kvm_0.2.5_amd64.exe",
+          "one-kvm_0.2.5_arm64.deb",
+          "one-kvm_0.2.5_armhf.deb"
+        ],
+        "published_at": "2026-07-20T00:59:09Z",
+        "pre_release": false
+      },
+      {
+        "version": "One-KVM Rust 0.2.4（260709）",
+        "tag": "v260709",
+        "files": [
+          "one-kvm_0.2.4_amd64.deb",
+          "one-kvm_0.2.4_amd64.exe",
+          "one-kvm_0.2.4_arm64.deb",
+          "one-kvm_0.2.4_armhf.deb"
+        ],
+        "published_at": "2026-07-07T17:41:36Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "One-KVM Rust 0.2.6（260802）",
+      "tag": "v260802"
+    }
   },
   "viarotel-org/escrcpy": {
     "config": {
@@ -179,30 +421,29 @@
     },
     "releases": [
       {
-        "version": "v1.15.0",
-        "tag": "v1.15.0",
+        "version": "v3.0.8",
+        "tag": "v3.0.8",
         "files": [
-          "Escrcpy-1.15.0-linux-arm64.AppImage",
-          "Escrcpy-1.15.0-linux-arm64.deb",
-          "Escrcpy-1.15.0-linux-x86_64.AppImage",
-          "Escrcpy-1.15.0-linux-amd64.deb",
-          "Escrcpy-1.15.0-win-portable-x64.exe",
-          "Escrcpy-1.15.0-win-portable-arm64.exe",
-          "Escrcpy-1.15.0-win-setup-x64.exe",
-          "Escrcpy-1.15.0-win-portable.exe",
-          "Escrcpy-1.15.0-win-setup-arm64.exe",
-          "Escrcpy-1.15.0-win-setup.exe",
-          "Escrcpy-1.15.0-mac-x64.dmg",
-          "Escrcpy-1.15.0-mac-arm64.dmg",
-          "Escrcpy-1.15.0-mac-universal.dmg"
+          "Escrcpy-3.0.8-linux-amd64.deb",
+          "Escrcpy-3.0.8-linux-arm64.AppImage",
+          "Escrcpy-3.0.8-linux-arm64.deb",
+          "Escrcpy-3.0.8-linux-x86_64.AppImage",
+          "Escrcpy-3.0.8-mac-arm64.dmg",
+          "Escrcpy-3.0.8-mac-x64.dmg",
+          "Escrcpy-3.0.8-win-portable-arm64.exe",
+          "Escrcpy-3.0.8-win-portable-x64.exe",
+          "Escrcpy-3.0.8-win-portable.exe",
+          "Escrcpy-3.0.8-win-setup-arm64.exe",
+          "Escrcpy-3.0.8-win-setup-x64.exe",
+          "Escrcpy-3.0.8-win-setup.exe"
         ],
-        "published_at": "2023-11-18T03:16:14Z",
+        "published_at": "2026-08-03T08:31:25Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v1.15.0",
-      "tag": "v1.15.0"
+      "version": "v3.0.8",
+      "tag": "v3.0.8"
     }
   },
   "niXman/mingw-builds-binaries": {
@@ -216,8 +457,30 @@
       "desc": "为 Windows 平台提供预编译的 GCC 编译器工具链，解压即用。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "Release of 16.2.0-rt_v14-rev1",
+        "tag": "16.2.0-rt_v14-rev1",
+        "files": [
+          "i686-16.2.0-release-mcf-dwarf-ucrt-rt_v14-rev1.7z",
+          "i686-16.2.0-release-posix-dwarf-msvcrt-rt_v14-rev1.7z",
+          "i686-16.2.0-release-posix-dwarf-ucrt-rt_v14-rev1.7z",
+          "i686-16.2.0-release-win32-dwarf-msvcrt-rt_v14-rev1.7z",
+          "i686-16.2.0-release-win32-dwarf-ucrt-rt_v14-rev1.7z",
+          "x86_64-16.2.0-release-mcf-seh-ucrt-rt_v14-rev1.7z",
+          "x86_64-16.2.0-release-posix-seh-msvcrt-rt_v14-rev1.7z",
+          "x86_64-16.2.0-release-posix-seh-ucrt-rt_v14-rev1.7z",
+          "x86_64-16.2.0-release-win32-seh-msvcrt-rt_v14-rev1.7z",
+          "x86_64-16.2.0-release-win32-seh-ucrt-rt_v14-rev1.7z"
+        ],
+        "published_at": "2026-08-14T08:27:01Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "Release of 16.2.0-rt_v14-rev1",
+      "tag": "16.2.0-rt_v14-rev1"
+    }
   },
   "msys2/msys2-installer": {
     "config": {
@@ -230,8 +493,23 @@
       "desc": "MSYS2 的官方 GUI 安装程序，提供类 Unix 开发环境与 Pacman 包管理器。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "2026-06-11",
+        "tag": "2026-06-11",
+        "files": [
+          "msys2-arm64-20260611.exe",
+          "msys2-base-x86_64-20260611.sfx.exe",
+          "msys2-x86_64-20260611.exe"
+        ],
+        "published_at": "2026-06-11T07:23:06Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "2026-06-11",
+      "tag": "2026-06-11"
+    }
   },
   "LanRhyme/MicYou": {
     "config": {
@@ -243,8 +521,26 @@
       "name": "MicYou",
       "desc": "将 Android 设备转变为 PC 高质量麦克风的跨平台工具，支持 Wi-Fi、USB 和蓝牙连接。"
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "v2.0.1",
+        "tag": "v2.0.1",
+        "files": [
+          "MicYou-Android-2.0.1.apk",
+          "MicYou-Linux-2.0.1.AppImage",
+          "MicYou-Linux-2.0.1.deb",
+          "MicYou-Linux-2.0.1.rpm",
+          "MicYou-macOS-2.0.1-arm64.dmg",
+          "MicYou-Win-2.0.1-installer.exe"
+        ],
+        "published_at": "2026-08-12T08:11:49Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "v2.0.1",
+      "tag": "v2.0.1"
+    }
   },
   "Alan-CRL/Inkeys": {
     "config": {
@@ -256,8 +552,26 @@
       "name": "智绘教 Inkeys",
       "desc": "免费开源的 Windows 屏幕批注工具，适用于教学授课、远程演示等场景。"
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "20260713a",
+        "tag": "20260713a",
+        "files": [
+          "Inkeys20260713a-arm64.zip",
+          "Inkeys20260713a-x64.zip",
+          "Inkeys20260713a-x86.zip",
+          "UpdatePackage-Inkeys20260713a-arm64.zip",
+          "UpdatePackage-Inkeys20260713a-x64.zip",
+          "UpdatePackage-Inkeys20260713a-x86.zip"
+        ],
+        "published_at": "2026-07-17T12:46:34Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "20260713a",
+      "tag": "20260713a"
+    }
   },
   "ClassIsland/ClassIsland": {
     "config": {
@@ -271,18 +585,29 @@
     },
     "releases": [
       {
-        "version": "1.3.0.2",
-        "tag": "1.3.0.2",
+        "version": "2.1.0.1",
+        "tag": "2.1.0.1",
         "files": [
-          "ClassIsland.zip"
+          "ClassIsland_app_linux_arm64_selfContained_deb.deb",
+          "ClassIsland_app_linux_arm64_selfContained_folder.zip",
+          "ClassIsland_app_linux_x64_selfContained_deb.deb",
+          "ClassIsland_app_linux_x64_selfContained_folder.zip",
+          "ClassIsland_app_macos_arm64_selfContained_pkg.pkg",
+          "ClassIsland_app_macos_x64_selfContained_pkg.pkg",
+          "ClassIsland_app_windows_arm64_full_folder.zip",
+          "ClassIsland_app_windows_arm64_selfContained_folder.zip",
+          "ClassIsland_app_windows_x64_full_folder.zip",
+          "ClassIsland_app_windows_x64_selfContained_folder.zip",
+          "ClassIsland_app_windows_x86_full_folder.zip",
+          "ClassIsland_app_windows_x86_selfContained_folder.zip"
         ],
-        "published_at": "2024-03-09T03:08:17Z",
+        "published_at": "2026-06-27T06:56:18Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "1.3.0.2",
-      "tag": "1.3.0.2"
+      "version": "2.1.0.1",
+      "tag": "2.1.0.1"
     }
   },
   "arduino/arduino-ide": {
@@ -296,8 +621,32 @@
       "desc": "Arduino 官方集成开发环境，用于编写程序并上传至 Arduino 开发板。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "2.3.10",
+        "tag": "2.3.10",
+        "files": [
+          "arduino-ide_2.3.10_Linux_64bit.AppImage",
+          "arduino-ide_2.3.10_Linux_64bit.zip",
+          "arduino-ide_2.3.10_macOS_64bit.dmg",
+          "arduino-ide_2.3.10_macOS_64bit.zip",
+          "arduino-ide_2.3.10_macOS_arm64.dmg",
+          "arduino-ide_2.3.10_macOS_arm64.zip",
+          "arduino-ide_2.3.10_Windows_64bit.exe",
+          "arduino-ide_2.3.10_Windows_64bit.msi",
+          "arduino-ide_2.3.10_Windows_64bit.zip",
+          "stable-linux.yml",
+          "stable-mac.yml",
+          "stable.yml"
+        ],
+        "published_at": "2026-06-09T17:10:18Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "2.3.10",
+      "tag": "2.3.10"
+    }
   },
   "espressif/idf-im-ui": {
     "config": {
@@ -310,8 +659,68 @@
       "desc": "乐鑫官方跨平台 GUI 工具，用于安装和管理 ESP-IDF 物联网开发框架。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "v0.18.0",
+        "tag": "v0.18.0",
+        "files": [
+          "eim-cli-linux-aarch64-aarch64.pkg.tar.zst",
+          "eim-cli-linux-aarch64-v0.18.0.zip",
+          "eim-cli-linux-aarch64.deb",
+          "eim-cli-linux-aarch64.rpm",
+          "eim-cli-linux-aarch64.zip",
+          "eim-cli-linux-armv7-armv7h.pkg.tar.zst",
+          "eim-cli-linux-armv7-v0.18.0.zip",
+          "eim-cli-linux-armv7.deb",
+          "eim-cli-linux-armv7.rpm",
+          "eim-cli-linux-armv7.zip",
+          "eim-cli-linux-x64-v0.18.0.zip",
+          "eim-cli-linux-x64-x86_64.pkg.tar.zst",
+          "eim-cli-linux-x64.deb",
+          "eim-cli-linux-x64.rpm",
+          "eim-cli-linux-x64.zip",
+          "eim-cli-macos-aarch64.zip",
+          "eim-cli-macos-x64.zip",
+          "eim-cli-windows-x64-v0.18.0.exe",
+          "eim-cli-windows-x64.exe",
+          "eim-cli.json",
+          "eim-gui-linux-aarch64-aarch64.pkg.tar.zst",
+          "eim-gui-linux-aarch64-v0.18.0.zip",
+          "eim-gui-linux-aarch64.deb",
+          "eim-gui-linux-aarch64.rpm",
+          "eim-gui-linux-aarch64.zip",
+          "eim-gui-linux-x64-v0.18.0.zip",
+          "eim-gui-linux-x64-x86_64.pkg.tar.zst",
+          "eim-gui-linux-x64.deb",
+          "eim-gui-linux-x64.rpm",
+          "eim-gui-linux-x64.zip",
+          "eim-gui-macos-aarch64.dmg",
+          "eim-gui-macos-aarch64.zip",
+          "eim-gui-macos-x64.dmg",
+          "eim-gui-macos-x64.zip",
+          "eim-gui-windows-x64-v0.18.0.exe",
+          "eim-gui-windows-x64.exe",
+          "eim-gui-windows-x64.msi",
+          "eim.json",
+          "offline_installer_builder-linux-aarch64-v0.18.0.zip",
+          "offline_installer_builder-linux-aarch64.zip",
+          "offline_installer_builder-linux-armv7-v0.18.0.zip",
+          "offline_installer_builder-linux-armv7.zip",
+          "offline_installer_builder-linux-x64-v0.18.0.zip",
+          "offline_installer_builder-linux-x64.zip",
+          "offline_installer_builder-macos-aarch64.zip",
+          "offline_installer_builder-macos-x64.zip",
+          "offline_installer_builder-windows-x64-v0.18.0.exe",
+          "offline_installer_builder-windows-x64.exe"
+        ],
+        "published_at": "2026-08-10T12:34:05Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "v0.18.0",
+      "tag": "v0.18.0"
+    }
   },
   "deepin-community/deepin-WSL": {
     "config": {
@@ -323,7 +732,18 @@
       "name": "deepin WSL",
       "desc": "deepin 社区推出的 WSL 发行版，可在 Windows 上运行 deepin 命令行环境。"
     },
-    "releases": [],
+    "releases": [
+      {
+        "version": "v1.6.0",
+        "tag": "v1.6.0",
+        "files": [
+          "deepin25-amd64.wsl",
+          "deepin25-arm64.wsl"
+        ],
+        "published_at": "2026-04-24T02:56:22Z",
+        "pre_release": true
+      }
+    ],
     "latest": null
   },
   "Embarcadero/Dev-Cpp": {
@@ -337,8 +757,26 @@
       "desc": "快速、轻量、免费的 C/C++ 集成开发环境，使用 MinGW GCC 作为编译器。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "v6.3",
+        "tag": "v6.3",
+        "files": [
+          "Embarcadero_Dev-Cpp_6.3_No_Compiler_Portable.7z",
+          "Embarcadero_Dev-Cpp_6.3_No_Compiler_Setup.exe",
+          "Embarcadero_Dev-Cpp_6.3_No_Compiler_Setup.zip",
+          "Embarcadero_Dev-Cpp_6.3_TDM-GCC_9.2_Portable.7z",
+          "Embarcadero_Dev-Cpp_6.3_TDM-GCC_9.2_Setup.exe",
+          "Embarcadero_Dev-Cpp_6.3_TDM-GCC_9.2_Setup.zip"
+        ],
+        "published_at": "2021-01-31T01:24:55Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "v6.3",
+      "tag": "v6.3"
+    }
   },
   "jmeubank/tdm-gcc": {
     "config": {
@@ -351,8 +789,21 @@
       "desc": "Windows 友好的 GCC 编译器套件，编译的程序无需依赖额外 DLL。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "v10.3.0-tdm64-2",
+        "tag": "v10.3.0-tdm64-2",
+        "files": [
+          "tdm64-gcc-10.3.0-2.exe"
+        ],
+        "published_at": "2021-05-26T00:57:35Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "v10.3.0-tdm64-2",
+      "tag": "v10.3.0-tdm64-2"
+    }
   },
   "git-for-windows/git": {
     "config": {
@@ -503,8 +954,194 @@
       "name": "Bun",
       "desc": "极速的 JavaScript 全家桶工具——运行时、打包器、测试运行器和包管理器合而为一。"
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "Bun v1.3.14",
+        "tag": "bun-v1.3.14",
+        "files": [
+          "bun-darwin-aarch64-profile.zip",
+          "bun-darwin-aarch64.zip",
+          "bun-darwin-x64-baseline-profile.zip",
+          "bun-darwin-x64-baseline.zip",
+          "bun-darwin-x64-profile.zip",
+          "bun-darwin-x64.zip",
+          "bun-freebsd-aarch64-profile.zip",
+          "bun-freebsd-aarch64.zip",
+          "bun-freebsd-x64-baseline-profile.zip",
+          "bun-freebsd-x64-baseline.zip",
+          "bun-freebsd-x64-profile.zip",
+          "bun-freebsd-x64.zip",
+          "bun-linux-aarch64-android-profile.zip",
+          "bun-linux-aarch64-android.zip",
+          "bun-linux-aarch64-musl-profile.zip",
+          "bun-linux-aarch64-musl.zip",
+          "bun-linux-aarch64-profile.zip",
+          "bun-linux-aarch64.zip",
+          "bun-linux-x64-android-baseline-profile.zip",
+          "bun-linux-x64-android-baseline.zip",
+          "bun-linux-x64-android-profile.zip",
+          "bun-linux-x64-android.zip",
+          "bun-linux-x64-baseline-profile.zip",
+          "bun-linux-x64-baseline.zip",
+          "bun-linux-x64-musl-baseline-profile.zip",
+          "bun-linux-x64-musl-baseline.zip",
+          "bun-linux-x64-musl-profile.zip",
+          "bun-linux-x64-musl.zip",
+          "bun-linux-x64-profile.zip",
+          "bun-linux-x64.zip",
+          "bun-windows-aarch64-profile.zip",
+          "bun-windows-aarch64.zip",
+          "bun-windows-x64-baseline-profile.zip",
+          "bun-windows-x64-baseline.zip",
+          "bun-windows-x64-profile.zip",
+          "bun-windows-x64.zip",
+          "SHASUMS256.txt",
+          "SHASUMS256.txt.asc"
+        ],
+        "published_at": "2026-05-13T03:48:28Z",
+        "pre_release": false
+      },
+      {
+        "version": "Bun v1.3.13",
+        "tag": "bun-v1.3.13",
+        "files": [
+          "bun-darwin-aarch64-profile.zip",
+          "bun-darwin-aarch64.zip",
+          "bun-darwin-x64-baseline-profile.zip",
+          "bun-darwin-x64-baseline.zip",
+          "bun-darwin-x64-profile.zip",
+          "bun-darwin-x64.zip",
+          "bun-linux-aarch64-musl-profile.zip",
+          "bun-linux-aarch64-musl.zip",
+          "bun-linux-aarch64-profile.zip",
+          "bun-linux-aarch64.zip",
+          "bun-linux-x64-baseline-profile.zip",
+          "bun-linux-x64-baseline.zip",
+          "bun-linux-x64-musl-baseline-profile.zip",
+          "bun-linux-x64-musl-baseline.zip",
+          "bun-linux-x64-musl-profile.zip",
+          "bun-linux-x64-musl.zip",
+          "bun-linux-x64-profile.zip",
+          "bun-linux-x64.zip",
+          "bun-windows-aarch64-profile.zip",
+          "bun-windows-aarch64.zip",
+          "bun-windows-x64-baseline-profile.zip",
+          "bun-windows-x64-baseline.zip",
+          "bun-windows-x64-profile.zip",
+          "bun-windows-x64.zip",
+          "SHASUMS256.txt",
+          "SHASUMS256.txt.asc"
+        ],
+        "published_at": "2026-04-20T08:07:57Z",
+        "pre_release": false
+      },
+      {
+        "version": "Bun v1.3.12",
+        "tag": "bun-v1.3.12",
+        "files": [
+          "bun-darwin-aarch64-profile.zip",
+          "bun-darwin-aarch64.zip",
+          "bun-darwin-x64-baseline-profile.zip",
+          "bun-darwin-x64-baseline.zip",
+          "bun-darwin-x64-profile.zip",
+          "bun-darwin-x64.zip",
+          "bun-linux-aarch64-musl-profile.zip",
+          "bun-linux-aarch64-musl.zip",
+          "bun-linux-aarch64-profile.zip",
+          "bun-linux-aarch64.zip",
+          "bun-linux-x64-baseline-profile.zip",
+          "bun-linux-x64-baseline.zip",
+          "bun-linux-x64-musl-baseline-profile.zip",
+          "bun-linux-x64-musl-baseline.zip",
+          "bun-linux-x64-musl-profile.zip",
+          "bun-linux-x64-musl.zip",
+          "bun-linux-x64-profile.zip",
+          "bun-linux-x64.zip",
+          "bun-windows-aarch64-profile.zip",
+          "bun-windows-aarch64.zip",
+          "bun-windows-x64-baseline-profile.zip",
+          "bun-windows-x64-baseline.zip",
+          "bun-windows-x64-profile.zip",
+          "bun-windows-x64.zip",
+          "SHASUMS256.txt",
+          "SHASUMS256.txt.asc"
+        ],
+        "published_at": "2026-04-10T03:04:46Z",
+        "pre_release": false
+      },
+      {
+        "version": "Bun v1.3.11",
+        "tag": "bun-v1.3.11",
+        "files": [
+          "bun-darwin-aarch64-profile.zip",
+          "bun-darwin-aarch64.zip",
+          "bun-darwin-x64-baseline-profile.zip",
+          "bun-darwin-x64-baseline.zip",
+          "bun-darwin-x64-profile.zip",
+          "bun-darwin-x64.zip",
+          "bun-linux-aarch64-musl-profile.zip",
+          "bun-linux-aarch64-musl.zip",
+          "bun-linux-aarch64-profile.zip",
+          "bun-linux-aarch64.zip",
+          "bun-linux-x64-baseline-profile.zip",
+          "bun-linux-x64-baseline.zip",
+          "bun-linux-x64-musl-baseline-profile.zip",
+          "bun-linux-x64-musl-baseline.zip",
+          "bun-linux-x64-musl-profile.zip",
+          "bun-linux-x64-musl.zip",
+          "bun-linux-x64-profile.zip",
+          "bun-linux-x64.zip",
+          "bun-windows-aarch64-profile.zip",
+          "bun-windows-aarch64.zip",
+          "bun-windows-x64-baseline-profile.zip",
+          "bun-windows-x64-baseline.zip",
+          "bun-windows-x64-profile.zip",
+          "bun-windows-x64.zip",
+          "SHASUMS256.txt",
+          "SHASUMS256.txt.asc"
+        ],
+        "published_at": "2026-03-18T04:31:40Z",
+        "pre_release": false
+      },
+      {
+        "version": "Bun v1.3.10",
+        "tag": "bun-v1.3.10",
+        "files": [
+          "bun-darwin-aarch64-profile.zip",
+          "bun-darwin-aarch64.zip",
+          "bun-darwin-x64-baseline-profile.zip",
+          "bun-darwin-x64-baseline.zip",
+          "bun-darwin-x64-profile.zip",
+          "bun-darwin-x64.zip",
+          "bun-linux-aarch64-musl-profile.zip",
+          "bun-linux-aarch64-musl.zip",
+          "bun-linux-aarch64-profile.zip",
+          "bun-linux-aarch64.zip",
+          "bun-linux-x64-baseline-profile.zip",
+          "bun-linux-x64-baseline.zip",
+          "bun-linux-x64-musl-baseline-profile.zip",
+          "bun-linux-x64-musl-baseline.zip",
+          "bun-linux-x64-musl-profile.zip",
+          "bun-linux-x64-musl.zip",
+          "bun-linux-x64-profile.zip",
+          "bun-linux-x64.zip",
+          "bun-windows-aarch64-profile.zip",
+          "bun-windows-aarch64.zip",
+          "bun-windows-x64-baseline-profile.zip",
+          "bun-windows-x64-baseline.zip",
+          "bun-windows-x64-profile.zip",
+          "bun-windows-x64.zip",
+          "SHASUMS256.txt",
+          "SHASUMS256.txt.asc"
+        ],
+        "published_at": "2026-02-26T07:08:20Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "Bun v1.3.14",
+      "tag": "bun-v1.3.14"
+    }
   },
   "termux/termux-app": {
     "config": {
@@ -517,8 +1154,26 @@
       "desc": "Android 终端模拟器与 Linux 环境，可在手机上运行大量 Linux 命令行工具。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "v0.118.3",
+        "tag": "v0.118.3",
+        "files": [
+          "termux-app_v0.118.3+github-debug_arm64-v8a.apk",
+          "termux-app_v0.118.3+github-debug_armeabi-v7a.apk",
+          "termux-app_v0.118.3+github-debug_sha256sums",
+          "termux-app_v0.118.3+github-debug_universal.apk",
+          "termux-app_v0.118.3+github-debug_x86.apk",
+          "termux-app_v0.118.3+github-debug_x86_64.apk"
+        ],
+        "published_at": "2025-05-22T22:47:26Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "v0.118.3",
+      "tag": "v0.118.3"
+    }
   },
   "ip7z/7zip": {
     "config": {
@@ -531,7 +1186,35 @@
       "desc": "高压缩比的开源文件压缩与解压工具，支持 7z、ZIP、RAR 等多种格式。",
       "popular": true
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "7-Zip 26.02",
+        "tag": "26.02",
+        "files": [
+          "7z2602-arm.exe",
+          "7z2602-arm64.exe",
+          "7z2602-extra.7z",
+          "7z2602-linux-arm.tar.xz",
+          "7z2602-linux-arm64.tar.xz",
+          "7z2602-linux-x64.tar.xz",
+          "7z2602-linux-x86.tar.xz",
+          "7z2602-mac.tar.xz",
+          "7z2602-src.7z",
+          "7z2602-src.tar.xz",
+          "7z2602-x64.exe",
+          "7z2602-x64.msi",
+          "7z2602.exe",
+          "7z2602.msi",
+          "7zr.exe",
+          "lzma2602.7z"
+        ],
+        "published_at": "2026-06-26T06:10:10Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "7-Zip 26.02",
+      "tag": "26.02"
+    }
   }
 }
