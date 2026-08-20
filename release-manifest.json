@@ -956,6 +956,50 @@
     },
     "releases": [
       {
+        "version": "Bun v1.4",
+        "tag": "bun-v1.4.0",
+        "files": [
+          "bun-darwin-aarch64-profile.zip",
+          "bun-darwin-aarch64.zip",
+          "bun-darwin-x64-baseline-profile.zip",
+          "bun-darwin-x64-baseline.zip",
+          "bun-darwin-x64-profile.zip",
+          "bun-darwin-x64.zip",
+          "bun-freebsd-aarch64-profile.zip",
+          "bun-freebsd-aarch64.zip",
+          "bun-freebsd-x64-baseline-profile.zip",
+          "bun-freebsd-x64-baseline.zip",
+          "bun-freebsd-x64-profile.zip",
+          "bun-freebsd-x64.zip",
+          "bun-linux-aarch64-android-profile.zip",
+          "bun-linux-aarch64-android.zip",
+          "bun-linux-aarch64-musl-profile.zip",
+          "bun-linux-aarch64-musl.zip",
+          "bun-linux-aarch64-profile.zip",
+          "bun-linux-aarch64.zip",
+          "bun-linux-x64-android-baseline-profile.zip",
+          "bun-linux-x64-android-baseline.zip",
+          "bun-linux-x64-android-profile.zip",
+          "bun-linux-x64-android.zip",
+          "bun-linux-x64-baseline-profile.zip",
+          "bun-linux-x64-baseline.zip",
+          "bun-linux-x64-musl-baseline-profile.zip",
+          "bun-linux-x64-musl-baseline.zip",
+          "bun-linux-x64-musl-profile.zip",
+          "bun-linux-x64-musl.zip",
+          "bun-linux-x64-profile.zip",
+          "bun-linux-x64.zip",
+          "bun-windows-aarch64-profile.zip",
+          "bun-windows-aarch64.zip",
+          "bun-windows-x64-baseline-profile.zip",
+          "bun-windows-x64-baseline.zip",
+          "bun-windows-x64-profile.zip",
+          "bun-windows-x64.zip"
+        ],
+        "published_at": "2026-08-20T14:07:21Z",
+        "pre_release": false
+      },
+      {
         "version": "Bun v1.3.14",
         "tag": "bun-v1.3.14",
         "files": [
@@ -1102,45 +1146,11 @@
         ],
         "published_at": "2026-03-18T04:31:40Z",
         "pre_release": false
-      },
-      {
-        "version": "Bun v1.3.10",
-        "tag": "bun-v1.3.10",
-        "files": [
-          "bun-darwin-aarch64-profile.zip",
-          "bun-darwin-aarch64.zip",
-          "bun-darwin-x64-baseline-profile.zip",
-          "bun-darwin-x64-baseline.zip",
-          "bun-darwin-x64-profile.zip",
-          "bun-darwin-x64.zip",
-          "bun-linux-aarch64-musl-profile.zip",
-          "bun-linux-aarch64-musl.zip",
-          "bun-linux-aarch64-profile.zip",
-          "bun-linux-aarch64.zip",
-          "bun-linux-x64-baseline-profile.zip",
-          "bun-linux-x64-baseline.zip",
-          "bun-linux-x64-musl-baseline-profile.zip",
-          "bun-linux-x64-musl-baseline.zip",
-          "bun-linux-x64-musl-profile.zip",
-          "bun-linux-x64-musl.zip",
-          "bun-linux-x64-profile.zip",
-          "bun-linux-x64.zip",
-          "bun-windows-aarch64-profile.zip",
-          "bun-windows-aarch64.zip",
-          "bun-windows-x64-baseline-profile.zip",
-          "bun-windows-x64-baseline.zip",
-          "bun-windows-x64-profile.zip",
-          "bun-windows-x64.zip",
-          "SHASUMS256.txt",
-          "SHASUMS256.txt.asc"
-        ],
-        "published_at": "2026-02-26T07:08:20Z",
-        "pre_release": false
       }
     ],
     "latest": {
-      "version": "Bun v1.3.14",
-      "tag": "bun-v1.3.14"
+      "version": "Bun v1.4",
+      "tag": "bun-v1.4.0"
     }
   },
   "termux/termux-app": {
