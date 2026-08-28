@@ -1143,10 +1143,10 @@
         "version": "Vanilla OS 3 Reunion",
         "tag": "3.0",
         "files": [
-          "Vanilla-OS-3-stable-amd64.20260812.iso",
-          "Vanilla-OS-3-stable-amd64.20260812.sha256.txt",
-          "Vanilla-OS-3-stable-arm64.20260812.iso",
-          "Vanilla-OS-3-stable-arm64.20260812.sha256.txt"
+          "Vanilla-OS-3-stable-amd64.20260828.iso",
+          "Vanilla-OS-3-stable-amd64.20260828.sha256.txt",
+          "Vanilla-OS-3-stable-arm64.20260828.iso",
+          "Vanilla-OS-3-stable-arm64.20260828.sha256.txt"
         ],
         "published_at": "2026-08-24T09:44:40Z",
         "pre_release": false
