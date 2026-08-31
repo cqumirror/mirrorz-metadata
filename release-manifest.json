@@ -292,8 +292,39 @@
       "name": "得意黑",
       "desc": "一款在人文观感和几何特征中寻找平衡的中文黑体，字身窄而斜，开源免费可商用。"
     },
-    "releases": [],
-    "latest": null
+    "releases": [
+      {
+        "version": "Smiley Sans v2.0.1",
+        "tag": "v2.0.1",
+        "files": [
+          "smiley-sans-v2.0.1.zip"
+        ],
+        "published_at": "2024-02-07T10:27:43Z",
+        "pre_release": false
+      },
+      {
+        "version": "Smiley Sans v2.0.0",
+        "tag": "v2.0.0",
+        "files": [
+          "smiley-sans-v2.0.0.zip"
+        ],
+        "published_at": "2024-02-06T17:58:30Z",
+        "pre_release": false
+      },
+      {
+        "version": "Smiley Sans v1.1.1",
+        "tag": "v1.1.1",
+        "files": [
+          "smiley-sans-v1.1.1.zip"
+        ],
+        "published_at": "2023-01-07T09:09:49Z",
+        "pre_release": false
+      }
+    ],
+    "latest": {
+      "version": "Smiley Sans v2.0.1",
+      "tag": "v2.0.1"
+    }
   },
   "microsoft/WSL": {
     "config": {
