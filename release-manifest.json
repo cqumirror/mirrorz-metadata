@@ -525,23 +525,22 @@
     },
     "releases": [
       {
-        "version": "v2.0.1",
-        "tag": "v2.0.1",
+        "version": "v2.0.2",
+        "tag": "v2.0.2",
         "files": [
-          "MicYou-Android-2.0.1.apk",
-          "MicYou-Linux-2.0.1.AppImage",
-          "MicYou-Linux-2.0.1.deb",
-          "MicYou-Linux-2.0.1.rpm",
-          "MicYou-macOS-2.0.1-arm64.dmg",
-          "MicYou-Win-2.0.1-installer.exe"
+          "MicYou-Linux-2.0.2.AppImage",
+          "MicYou-Linux-2.0.2.deb",
+          "MicYou-Linux-2.0.2.rpm",
+          "MicYou-macOS-2.0.2-arm64.dmg",
+          "MicYou-Win-2.0.2-installer.exe"
         ],
-        "published_at": "2026-08-12T08:11:49Z",
+        "published_at": "2026-09-04T13:13:34Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v2.0.1",
-      "tag": "v2.0.1"
+      "version": "v2.0.2",
+      "tag": "v2.0.2"
     }
   },
   "Alan-CRL/Inkeys": {
@@ -859,6 +858,52 @@
     },
     "releases": [
       {
+        "version": "Bun v1.4.1",
+        "tag": "bun-v1.4.1",
+        "files": [
+          "bun-darwin-aarch64-profile.zip",
+          "bun-darwin-aarch64.zip",
+          "bun-darwin-x64-baseline-profile.zip",
+          "bun-darwin-x64-baseline.zip",
+          "bun-darwin-x64-profile.zip",
+          "bun-darwin-x64.zip",
+          "bun-freebsd-aarch64-profile.zip",
+          "bun-freebsd-aarch64.zip",
+          "bun-freebsd-x64-baseline-profile.zip",
+          "bun-freebsd-x64-baseline.zip",
+          "bun-freebsd-x64-profile.zip",
+          "bun-freebsd-x64.zip",
+          "bun-linux-aarch64-android-profile.zip",
+          "bun-linux-aarch64-android.zip",
+          "bun-linux-aarch64-musl-profile.zip",
+          "bun-linux-aarch64-musl.zip",
+          "bun-linux-aarch64-profile.zip",
+          "bun-linux-aarch64.zip",
+          "bun-linux-x64-android-baseline-profile.zip",
+          "bun-linux-x64-android-baseline.zip",
+          "bun-linux-x64-android-profile.zip",
+          "bun-linux-x64-android.zip",
+          "bun-linux-x64-baseline-profile.zip",
+          "bun-linux-x64-baseline.zip",
+          "bun-linux-x64-musl-baseline-profile.zip",
+          "bun-linux-x64-musl-baseline.zip",
+          "bun-linux-x64-musl-profile.zip",
+          "bun-linux-x64-musl.zip",
+          "bun-linux-x64-profile.zip",
+          "bun-linux-x64.zip",
+          "bun-windows-aarch64-profile.zip",
+          "bun-windows-aarch64.zip",
+          "bun-windows-x64-baseline-profile.zip",
+          "bun-windows-x64-baseline.zip",
+          "bun-windows-x64-profile.zip",
+          "bun-windows-x64.zip",
+          "SHASUMS256.txt",
+          "SHASUMS256.txt.asc"
+        ],
+        "published_at": "2026-09-04T08:33:19Z",
+        "pre_release": false
+      },
+      {
         "version": "Bun v1.4",
         "tag": "bun-v1.4.0",
         "files": [
@@ -1017,45 +1062,11 @@
         ],
         "published_at": "2026-04-10T03:04:46Z",
         "pre_release": false
-      },
-      {
-        "version": "Bun v1.3.11",
-        "tag": "bun-v1.3.11",
-        "files": [
-          "bun-darwin-aarch64-profile.zip",
-          "bun-darwin-aarch64.zip",
-          "bun-darwin-x64-baseline-profile.zip",
-          "bun-darwin-x64-baseline.zip",
-          "bun-darwin-x64-profile.zip",
-          "bun-darwin-x64.zip",
-          "bun-linux-aarch64-musl-profile.zip",
-          "bun-linux-aarch64-musl.zip",
-          "bun-linux-aarch64-profile.zip",
-          "bun-linux-aarch64.zip",
-          "bun-linux-x64-baseline-profile.zip",
-          "bun-linux-x64-baseline.zip",
-          "bun-linux-x64-musl-baseline-profile.zip",
-          "bun-linux-x64-musl-baseline.zip",
-          "bun-linux-x64-musl-profile.zip",
-          "bun-linux-x64-musl.zip",
-          "bun-linux-x64-profile.zip",
-          "bun-linux-x64.zip",
-          "bun-windows-aarch64-profile.zip",
-          "bun-windows-aarch64.zip",
-          "bun-windows-x64-baseline-profile.zip",
-          "bun-windows-x64-baseline.zip",
-          "bun-windows-x64-profile.zip",
-          "bun-windows-x64.zip",
-          "SHASUMS256.txt",
-          "SHASUMS256.txt.asc"
-        ],
-        "published_at": "2026-03-18T04:31:40Z",
-        "pre_release": false
       }
     ],
     "latest": {
-      "version": "Bun v1.4",
-      "tag": "bun-v1.4.0"
+      "version": "Bun v1.4.1",
+      "tag": "bun-v1.4.1"
     }
   },
   "termux/termux-app": {
@@ -1103,33 +1114,33 @@
     },
     "releases": [
       {
-        "version": "7-Zip 26.02",
-        "tag": "26.02",
+        "version": "7-Zip 26.03",
+        "tag": "26.03",
         "files": [
-          "7z2602-arm.exe",
-          "7z2602-arm64.exe",
-          "7z2602-extra.7z",
-          "7z2602-linux-arm.tar.xz",
-          "7z2602-linux-arm64.tar.xz",
-          "7z2602-linux-x64.tar.xz",
-          "7z2602-linux-x86.tar.xz",
-          "7z2602-mac.tar.xz",
-          "7z2602-src.7z",
-          "7z2602-src.tar.xz",
-          "7z2602-x64.exe",
-          "7z2602-x64.msi",
-          "7z2602.exe",
-          "7z2602.msi",
+          "7z2603-arm.exe",
+          "7z2603-arm64.exe",
+          "7z2603-extra.7z",
+          "7z2603-linux-arm.tar.xz",
+          "7z2603-linux-arm64.tar.xz",
+          "7z2603-linux-x64.tar.xz",
+          "7z2603-linux-x86.tar.xz",
+          "7z2603-mac.tar.xz",
+          "7z2603-src.7z",
+          "7z2603-src.tar.xz",
+          "7z2603-x64.exe",
+          "7z2603-x64.msi",
+          "7z2603.exe",
+          "7z2603.msi",
           "7zr.exe",
-          "lzma2602.7z"
+          "lzma2603.7z"
         ],
-        "published_at": "2026-06-26T06:10:10Z",
+        "published_at": "2026-09-04T07:34:42Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "7-Zip 26.02",
-      "tag": "26.02"
+      "version": "7-Zip 26.03",
+      "tag": "26.03"
     }
   },
   "Vanilla-OS/live-iso": {
