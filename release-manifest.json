@@ -12,6 +12,20 @@
     },
     "releases": [
       {
+        "version": "Office Tool Plus v11.7.9.0",
+        "tag": "v11.7.9.0",
+        "files": [
+          "Office_Tool_v11.7.9.0_arm64.zip",
+          "Office_Tool_v11.7.9.0_x64.zip",
+          "Office_Tool_with_runtime_v11.7.9.0_arm64.7z",
+          "Office_Tool_with_runtime_v11.7.9.0_arm64.zip",
+          "Office_Tool_with_runtime_v11.7.9.0_x64.7z",
+          "Office_Tool_with_runtime_v11.7.9.0_x64.zip"
+        ],
+        "published_at": "2026-09-09T11:00:58Z",
+        "pre_release": false
+      },
+      {
         "version": "Office Tool Plus v11.6.6.0",
         "tag": "v11.6.6.0",
         "files": [
@@ -38,25 +52,11 @@
         ],
         "published_at": "2026-06-10T05:22:59Z",
         "pre_release": false
-      },
-      {
-        "version": "Office Tool Plus v11.4.17.0",
-        "tag": "v11.4.17.0",
-        "files": [
-          "Office_Tool_v11.4.17.0_arm64.zip",
-          "Office_Tool_v11.4.17.0_x64.zip",
-          "Office_Tool_with_runtime_v11.4.17.0_arm64.7z",
-          "Office_Tool_with_runtime_v11.4.17.0_arm64.zip",
-          "Office_Tool_with_runtime_v11.4.17.0_x64.7z",
-          "Office_Tool_with_runtime_v11.4.17.0_x64.zip"
-        ],
-        "published_at": "2026-05-29T14:20:56Z",
-        "pre_release": false
       }
     ],
     "latest": {
-      "version": "Office Tool Plus v11.6.6.0",
-      "tag": "v11.6.6.0"
+      "version": "Office Tool Plus v11.7.9.0",
+      "tag": "v11.7.9.0"
     }
   },
   "obsproject/obs-studio": {
