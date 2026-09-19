@@ -101,24 +101,24 @@
     },
     "releases": [
       {
-        "version": "v2.1.6",
-        "tag": "v2.1.6",
+        "version": "v2.1.7",
+        "tag": "v2.1.7",
         "files": [
-          "balenaEtcher-2.1.6-arm64.dmg",
-          "balenaEtcher-2.1.6-x64.dmg",
-          "balenaEtcher-2.1.6.Setup.exe",
+          "balenaEtcher-2.1.7-arm64.dmg",
+          "balenaEtcher-2.1.7-x64.dmg",
+          "balenaEtcher-2.1.7.Setup.exe",
           "SHA256SUMS.Darwin.arm64.txt",
           "SHA256SUMS.Darwin.x64.txt",
           "SHA256SUMS.Linux.x64.txt",
           "SHA256SUMS.Windows.x64.txt"
         ],
-        "published_at": "2026-05-13T16:40:26Z",
+        "published_at": "2026-09-18T13:52:33Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v2.1.6",
-      "tag": "v2.1.6"
+      "version": "v2.1.7",
+      "tag": "v2.1.7"
     }
   },
   "lxgw/LxgwWenKai": {
