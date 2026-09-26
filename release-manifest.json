@@ -368,6 +368,18 @@
     },
     "releases": [
       {
+        "version": "One-KVM Rust 0.2.7（v260926）",
+        "tag": "v260926",
+        "files": [
+          "one-kvm_0.2.7_amd64.deb",
+          "one-kvm_0.2.7_amd64.exe",
+          "one-kvm_0.2.7_arm64.deb",
+          "one-kvm_0.2.7_armhf.deb"
+        ],
+        "published_at": "2026-09-26T06:04:22Z",
+        "pre_release": false
+      },
+      {
         "version": "One-KVM Rust 0.2.6（260802）",
         "tag": "v260802",
         "files": [
@@ -390,23 +402,11 @@
         ],
         "published_at": "2026-07-20T00:59:09Z",
         "pre_release": false
-      },
-      {
-        "version": "One-KVM Rust 0.2.4（260709）",
-        "tag": "v260709",
-        "files": [
-          "one-kvm_0.2.4_amd64.deb",
-          "one-kvm_0.2.4_amd64.exe",
-          "one-kvm_0.2.4_arm64.deb",
-          "one-kvm_0.2.4_armhf.deb"
-        ],
-        "published_at": "2026-07-07T17:41:36Z",
-        "pre_release": false
       }
     ],
     "latest": {
-      "version": "One-KVM Rust 0.2.6（260802）",
-      "tag": "v260802"
+      "version": "One-KVM Rust 0.2.7（v260926）",
+      "tag": "v260926"
     }
   },
   "viarotel-org/escrcpy": {
