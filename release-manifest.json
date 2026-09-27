@@ -497,20 +497,20 @@
     },
     "releases": [
       {
-        "version": "2026-06-11",
-        "tag": "2026-06-11",
+        "version": "2026-09-27",
+        "tag": "2026-09-27",
         "files": [
-          "msys2-arm64-20260611.exe",
-          "msys2-base-x86_64-20260611.sfx.exe",
-          "msys2-x86_64-20260611.exe"
+          "msys2-arm64-20260927.exe",
+          "msys2-base-x86_64-20260927.sfx.exe",
+          "msys2-x86_64-20260927.exe"
         ],
-        "published_at": "2026-06-11T07:23:06Z",
+        "published_at": "2026-09-27T12:35:02Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "2026-06-11",
-      "tag": "2026-06-11"
+      "version": "2026-09-27",
+      "tag": "2026-09-27"
     }
   },
   "LanRhyme/MicYou": {
