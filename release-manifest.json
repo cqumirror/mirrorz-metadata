@@ -820,31 +820,31 @@
     },
     "releases": [
       {
-        "version": "Git for Windows v2.55.0.windows.5",
-        "tag": "v2.55.0.windows.5",
+        "version": "Git for Windows v2.56.0.windows.1",
+        "tag": "v2.56.0.windows.1",
         "files": [
-          "Git-2.55.0.5-64-bit.exe",
-          "Git-2.55.0.5-64-bit.tar.bz2",
-          "Git-2.55.0.5-arm64.exe",
-          "Git-2.55.0.5-arm64.tar.bz2",
-          "MinGit-2.55.0.5-32-bit.zip",
-          "MinGit-2.55.0.5-64-bit.zip",
-          "MinGit-2.55.0.5-arm64.zip",
-          "MinGit-2.55.0.5-busybox-32-bit.zip",
-          "MinGit-2.55.0.5-busybox-64-bit.zip",
-          "MinGit-2.55.0.5-busybox-arm64.zip",
-          "pdbs-for-git-64-bit-2.55.0.5-1.zip",
-          "pdbs-for-git-arm64-2.55.0.5-1.zip",
-          "PortableGit-2.55.0.5-64-bit.7z.exe",
-          "PortableGit-2.55.0.5-arm64.7z.exe"
+          "Git-2.56.0-64-bit.exe",
+          "Git-2.56.0-64-bit.tar.bz2",
+          "Git-2.56.0-arm64.exe",
+          "Git-2.56.0-arm64.tar.bz2",
+          "MinGit-2.56.0-32-bit.zip",
+          "MinGit-2.56.0-64-bit.zip",
+          "MinGit-2.56.0-arm64.zip",
+          "MinGit-2.56.0-busybox-32-bit.zip",
+          "MinGit-2.56.0-busybox-64-bit.zip",
+          "MinGit-2.56.0-busybox-arm64.zip",
+          "pdbs-for-git-arm64-2.56.0.1-1.zip",
+          "pdbs-for-git-ucrt64-2.56.0.1-1.zip",
+          "PortableGit-2.56.0-64-bit.7z.exe",
+          "PortableGit-2.56.0-arm64.7z.exe"
         ],
-        "published_at": "2026-08-20T16:21:31Z",
+        "published_at": "2026-09-28T20:34:41Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "Git for Windows v2.55.0.windows.5",
-      "tag": "v2.55.0.windows.5"
+      "version": "Git for Windows v2.56.0.windows.1",
+      "tag": "v2.56.0.windows.1"
     }
   },
   "oven-sh/bun": {
