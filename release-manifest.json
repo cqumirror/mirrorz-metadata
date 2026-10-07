@@ -1128,33 +1128,33 @@
     },
     "releases": [
       {
-        "version": "7-Zip 26.03",
-        "tag": "26.03",
+        "version": "7-Zip 26.04",
+        "tag": "26.04",
         "files": [
-          "7z2603-arm.exe",
-          "7z2603-arm64.exe",
-          "7z2603-extra.7z",
-          "7z2603-linux-arm.tar.xz",
-          "7z2603-linux-arm64.tar.xz",
-          "7z2603-linux-x64.tar.xz",
-          "7z2603-linux-x86.tar.xz",
-          "7z2603-mac.tar.xz",
-          "7z2603-src.7z",
-          "7z2603-src.tar.xz",
-          "7z2603-x64.exe",
-          "7z2603-x64.msi",
-          "7z2603.exe",
-          "7z2603.msi",
+          "7z2604-arm.exe",
+          "7z2604-arm64.exe",
+          "7z2604-extra.7z",
+          "7z2604-linux-arm.tar.xz",
+          "7z2604-linux-arm64.tar.xz",
+          "7z2604-linux-x64.tar.xz",
+          "7z2604-linux-x86.tar.xz",
+          "7z2604-mac.tar.xz",
+          "7z2604-src.7z",
+          "7z2604-src.tar.xz",
+          "7z2604-x64.exe",
+          "7z2604-x64.msi",
+          "7z2604.exe",
+          "7z2604.msi",
           "7zr.exe",
-          "lzma2603.7z"
+          "lzma2604.7z"
         ],
-        "published_at": "2026-09-04T07:34:42Z",
+        "published_at": "2026-10-06T07:55:39Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "7-Zip 26.03",
-      "tag": "26.03"
+      "version": "7-Zip 26.04",
+      "tag": "26.04"
     }
   },
   "Vanilla-OS/live-iso": {
