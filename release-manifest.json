@@ -422,31 +422,31 @@
     },
     "releases": [
       {
-        "version": "v3.2.0",
-        "tag": "v3.2.0",
+        "version": "v3.3.1",
+        "tag": "v3.3.1",
         "files": [
-          "Escrcpy-3.2.0-linux-aarch64.flatpak",
-          "Escrcpy-3.2.0-linux-amd64.deb",
-          "Escrcpy-3.2.0-linux-arm64.AppImage",
-          "Escrcpy-3.2.0-linux-arm64.deb",
-          "Escrcpy-3.2.0-linux-x86_64.AppImage",
-          "Escrcpy-3.2.0-linux-x86_64.flatpak",
-          "Escrcpy-3.2.0-mac-arm64.dmg",
-          "Escrcpy-3.2.0-mac-x64.dmg",
-          "Escrcpy-3.2.0-win-portable-arm64.exe",
-          "Escrcpy-3.2.0-win-portable-x64.exe",
-          "Escrcpy-3.2.0-win-portable.exe",
-          "Escrcpy-3.2.0-win-setup-arm64.exe",
-          "Escrcpy-3.2.0-win-setup-x64.exe",
-          "Escrcpy-3.2.0-win-setup.exe"
+          "Escrcpy-3.3.1-linux-aarch64.flatpak",
+          "Escrcpy-3.3.1-linux-amd64.deb",
+          "Escrcpy-3.3.1-linux-arm64.AppImage",
+          "Escrcpy-3.3.1-linux-arm64.deb",
+          "Escrcpy-3.3.1-linux-x86_64.AppImage",
+          "Escrcpy-3.3.1-linux-x86_64.flatpak",
+          "Escrcpy-3.3.1-mac-arm64.dmg",
+          "Escrcpy-3.3.1-mac-x64.dmg",
+          "Escrcpy-3.3.1-win-portable-arm64.exe",
+          "Escrcpy-3.3.1-win-portable-x64.exe",
+          "Escrcpy-3.3.1-win-portable.exe",
+          "Escrcpy-3.3.1-win-setup-arm64.exe",
+          "Escrcpy-3.3.1-win-setup-x64.exe",
+          "Escrcpy-3.3.1-win-setup.exe"
         ],
-        "published_at": "2026-09-01T09:26:12Z",
+        "published_at": "2026-10-10T03:43:49Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v3.2.0",
-      "tag": "v3.2.0"
+      "version": "v3.3.1",
+      "tag": "v3.3.1"
     }
   },
   "niXman/mingw-builds-binaries": {
@@ -860,6 +860,52 @@
     },
     "releases": [
       {
+        "version": "Bun v1.4.3",
+        "tag": "bun-v1.4.3",
+        "files": [
+          "bun-darwin-aarch64-profile.zip",
+          "bun-darwin-aarch64.zip",
+          "bun-darwin-x64-baseline-profile.zip",
+          "bun-darwin-x64-baseline.zip",
+          "bun-darwin-x64-profile.zip",
+          "bun-darwin-x64.zip",
+          "bun-freebsd-aarch64-profile.zip",
+          "bun-freebsd-aarch64.zip",
+          "bun-freebsd-x64-baseline-profile.zip",
+          "bun-freebsd-x64-baseline.zip",
+          "bun-freebsd-x64-profile.zip",
+          "bun-freebsd-x64.zip",
+          "bun-linux-aarch64-android-profile.zip",
+          "bun-linux-aarch64-android.zip",
+          "bun-linux-aarch64-musl-profile.zip",
+          "bun-linux-aarch64-musl.zip",
+          "bun-linux-aarch64-profile.zip",
+          "bun-linux-aarch64.zip",
+          "bun-linux-x64-android-baseline-profile.zip",
+          "bun-linux-x64-android-baseline.zip",
+          "bun-linux-x64-android-profile.zip",
+          "bun-linux-x64-android.zip",
+          "bun-linux-x64-baseline-profile.zip",
+          "bun-linux-x64-baseline.zip",
+          "bun-linux-x64-musl-baseline-profile.zip",
+          "bun-linux-x64-musl-baseline.zip",
+          "bun-linux-x64-musl-profile.zip",
+          "bun-linux-x64-musl.zip",
+          "bun-linux-x64-profile.zip",
+          "bun-linux-x64.zip",
+          "bun-windows-aarch64-profile.zip",
+          "bun-windows-aarch64.zip",
+          "bun-windows-x64-baseline-profile.zip",
+          "bun-windows-x64-baseline.zip",
+          "bun-windows-x64-profile.zip",
+          "bun-windows-x64.zip",
+          "SHASUMS256.txt",
+          "SHASUMS256.txt.asc"
+        ],
+        "published_at": "2026-10-10T05:24:54Z",
+        "pre_release": false
+      },
+      {
         "version": "Bun v1.4.2",
         "tag": "bun-v1.4.2",
         "files": [
@@ -1042,45 +1088,11 @@
         ],
         "published_at": "2026-05-13T03:48:28Z",
         "pre_release": false
-      },
-      {
-        "version": "Bun v1.3.13",
-        "tag": "bun-v1.3.13",
-        "files": [
-          "bun-darwin-aarch64-profile.zip",
-          "bun-darwin-aarch64.zip",
-          "bun-darwin-x64-baseline-profile.zip",
-          "bun-darwin-x64-baseline.zip",
-          "bun-darwin-x64-profile.zip",
-          "bun-darwin-x64.zip",
-          "bun-linux-aarch64-musl-profile.zip",
-          "bun-linux-aarch64-musl.zip",
-          "bun-linux-aarch64-profile.zip",
-          "bun-linux-aarch64.zip",
-          "bun-linux-x64-baseline-profile.zip",
-          "bun-linux-x64-baseline.zip",
-          "bun-linux-x64-musl-baseline-profile.zip",
-          "bun-linux-x64-musl-baseline.zip",
-          "bun-linux-x64-musl-profile.zip",
-          "bun-linux-x64-musl.zip",
-          "bun-linux-x64-profile.zip",
-          "bun-linux-x64.zip",
-          "bun-windows-aarch64-profile.zip",
-          "bun-windows-aarch64.zip",
-          "bun-windows-x64-baseline-profile.zip",
-          "bun-windows-x64-baseline.zip",
-          "bun-windows-x64-profile.zip",
-          "bun-windows-x64.zip",
-          "SHASUMS256.txt",
-          "SHASUMS256.txt.asc"
-        ],
-        "published_at": "2026-04-20T08:07:57Z",
-        "pre_release": false
       }
     ],
     "latest": {
-      "version": "Bun v1.4.2",
-      "tag": "bun-v1.4.2"
+      "version": "Bun v1.4.3",
+      "tag": "bun-v1.4.3"
     }
   },
   "termux/termux-app": {
