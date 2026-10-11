@@ -526,23 +526,24 @@
     },
     "releases": [
       {
-        "version": "v2.1.0",
-        "tag": "v2.1.0",
+        "version": "v2.1.1",
+        "tag": "v2.1.1",
         "files": [
-          "MicYou-Android-2.1.0.apk",
-          "MicYou-Linux-2.1.0.AppImage",
-          "MicYou-Linux-2.1.0.deb",
-          "MicYou-Linux-2.1.0.rpm",
-          "MicYou-macOS-2.1.0-arm64.dmg",
-          "MicYou-Win-2.1.0-installer.exe"
+          "MicYou-Android-2.1.1.apk",
+          "MicYou-Linux-2.1.1.AppImage",
+          "MicYou-Linux-2.1.1.deb",
+          "MicYou-Linux-2.1.1.rpm",
+          "MicYou-macOS-2.1.1-arm64.dmg",
+          "MicYou-macOS-2.1.1-x86_64.dmg",
+          "MicYou-Win-2.1.1-installer.exe"
         ],
-        "published_at": "2026-10-04T04:32:52Z",
+        "published_at": "2026-10-11T10:22:04Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v2.1.0",
-      "tag": "v2.1.0"
+      "version": "v2.1.1",
+      "tag": "v2.1.1"
     }
   },
   "Alan-CRL/Inkeys": {
