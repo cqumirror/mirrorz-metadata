@@ -133,11 +133,11 @@
     },
     "releases": [
       {
-        "version": "v1.522 26/03/17",
-        "tag": "v1.522",
+        "version": "v1.530 26/10/18",
+        "tag": "v1.530",
         "files": [
-          "lxgw-wenkai-v1.522.tar.gz",
-          "lxgw-wenkai-v1.522.zip",
+          "lxgw-wenkai-v1.530.tar.gz",
+          "lxgw-wenkai-v1.530.zip",
           "LXGWWenKai-Light.ttf",
           "LXGWWenKai-Medium.ttf",
           "LXGWWenKai-Regular.ttf",
@@ -145,13 +145,13 @@
           "LXGWWenKaiMono-Medium.ttf",
           "LXGWWenKaiMono-Regular.ttf"
         ],
-        "published_at": "2026-03-17T15:15:14Z",
+        "published_at": "2026-10-17T18:44:16Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v1.522 26/03/17",
-      "tag": "v1.522"
+      "version": "v1.530 26/10/18",
+      "tag": "v1.530"
     }
   },
   "lxgw/LxgwWenKai-Screen": {
@@ -195,11 +195,11 @@
     },
     "releases": [
       {
-        "version": "v1.522 26/03/17",
-        "tag": "v1.522",
+        "version": "v1.530 26/10/18",
+        "tag": "v1.530",
         "files": [
-          "lxgw-wenkai-lite-v1.522.tar.gz",
-          "lxgw-wenkai-lite-v1.522.zip",
+          "lxgw-wenkai-lite-v1.530.tar.gz",
+          "lxgw-wenkai-lite-v1.530.zip",
           "LXGWWenKaiLite-Light.ttf",
           "LXGWWenKaiLite-Medium.ttf",
           "LXGWWenKaiLite-Regular.ttf",
@@ -207,13 +207,13 @@
           "LXGWWenKaiMonoLite-Medium.ttf",
           "LXGWWenKaiMonoLite-Regular.ttf"
         ],
-        "published_at": "2026-03-17T15:10:36Z",
+        "published_at": "2026-10-17T18:46:56Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v1.522 26/03/17",
-      "tag": "v1.522"
+      "version": "v1.530 26/10/18",
+      "tag": "v1.530"
     }
   },
   "lxgw/LxgwWenkaiGB": {
@@ -228,11 +228,11 @@
     },
     "releases": [
       {
-        "version": "v1.522 26/03/17",
-        "tag": "v1.522",
+        "version": "v1.530 26/10/18",
+        "tag": "v1.530",
         "files": [
-          "lxgw-wenkai-gb-v1.522.tar.gz",
-          "lxgw-wenkai-gb-v1.522.zip",
+          "lxgw-wenkai-gb-v1.530.tar.gz",
+          "lxgw-wenkai-gb-v1.530.zip",
           "LXGWWenKaiGB-Light.ttf",
           "LXGWWenKaiGB-Medium.ttf",
           "LXGWWenKaiGB-Regular.ttf",
@@ -240,13 +240,13 @@
           "LXGWWenKaiMonoGB-Medium.ttf",
           "LXGWWenKaiMonoGB-Regular.ttf"
         ],
-        "published_at": "2026-03-17T15:03:02Z",
+        "published_at": "2026-10-17T18:49:29Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v1.522 26/03/17",
-      "tag": "v1.522"
+      "version": "v1.530 26/10/18",
+      "tag": "v1.530"
     }
   },
   "lxgw/LxgwWenkaiTC": {
@@ -261,11 +261,11 @@
     },
     "releases": [
       {
-        "version": "v1.522 26/03/17",
-        "tag": "v1.522",
+        "version": "v1.530 26/10/18",
+        "tag": "v1.530",
         "files": [
-          "lxgw-wenkai-tc-v1.522.tar.gz",
-          "lxgw-wenkai-tc-v1.522.zip",
+          "lxgw-wenkai-tc-v1.530.tar.gz",
+          "lxgw-wenkai-tc-v1.530.zip",
           "LXGWWenKaiMonoTC-Light.ttf",
           "LXGWWenKaiMonoTC-Medium.ttf",
           "LXGWWenKaiMonoTC-Regular.ttf",
@@ -273,13 +273,13 @@
           "LXGWWenKaiTC-Medium.ttf",
           "LXGWWenKaiTC-Regular.ttf"
         ],
-        "published_at": "2026-03-17T15:21:03Z",
+        "published_at": "2026-10-17T18:51:17Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v1.522 26/03/17",
-      "tag": "v1.522"
+      "version": "v1.530 26/10/18",
+      "tag": "v1.530"
     }
   },
   "atelier-anchor/smiley-sans": {
