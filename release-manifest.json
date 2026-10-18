@@ -12,6 +12,20 @@
     },
     "releases": [
       {
+        "version": "Office Tool Plus v11.8.50.0",
+        "tag": "v11.8.50.0",
+        "files": [
+          "Office_Tool_v11.8.50.0_arm64.zip",
+          "Office_Tool_v11.8.50.0_x64.zip",
+          "Office_Tool_with_runtime_v11.8.50.0_arm64.7z",
+          "Office_Tool_with_runtime_v11.8.50.0_arm64.zip",
+          "Office_Tool_with_runtime_v11.8.50.0_x64.7z",
+          "Office_Tool_with_runtime_v11.8.50.0_x64.zip"
+        ],
+        "published_at": "2026-10-18T08:50:11Z",
+        "pre_release": false
+      },
+      {
         "version": "Office Tool Plus v11.7.9.0",
         "tag": "v11.7.9.0",
         "files": [
@@ -38,25 +52,11 @@
         ],
         "published_at": "2026-08-12T05:27:12Z",
         "pre_release": false
-      },
-      {
-        "version": "Office Tool Plus v11.5.7.0",
-        "tag": "v11.5.7.0",
-        "files": [
-          "Office_Tool_v11.5.7.0_arm64.zip",
-          "Office_Tool_v11.5.7.0_x64.zip",
-          "Office_Tool_with_runtime_v11.5.7.0_arm64.7z",
-          "Office_Tool_with_runtime_v11.5.7.0_arm64.zip",
-          "Office_Tool_with_runtime_v11.5.7.0_x64.7z",
-          "Office_Tool_with_runtime_v11.5.7.0_x64.zip"
-        ],
-        "published_at": "2026-06-10T05:22:59Z",
-        "pre_release": false
       }
     ],
     "latest": {
-      "version": "Office Tool Plus v11.7.9.0",
-      "tag": "v11.7.9.0"
+      "version": "Office Tool Plus v11.8.50.0",
+      "tag": "v11.8.50.0"
     }
   },
   "obsproject/obs-studio": {
@@ -166,21 +166,21 @@
     },
     "releases": [
       {
-        "version": "v1.522",
-        "tag": "v1.522",
+        "version": "v1.530",
+        "tag": "v1.530",
         "files": [
           "LXGWWenKaiGBScreen.ttf",
           "LXGWWenKaiMonoGBScreen.ttf",
           "LXGWWenKaiMonoScreen.ttf",
           "LXGWWenKaiScreen.ttf"
         ],
-        "published_at": "2026-03-18T16:41:47Z",
+        "published_at": "2026-10-18T12:39:46Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v1.522",
-      "tag": "v1.522"
+      "version": "v1.530",
+      "tag": "v1.530"
     }
   },
   "lxgw/LxgwWenKai-Lite": {
