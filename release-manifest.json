@@ -558,23 +558,23 @@
     },
     "releases": [
       {
-        "version": "20260713a",
-        "tag": "20260713a",
+        "version": "20261019a",
+        "tag": "20261019a",
         "files": [
-          "Inkeys20260713a-arm64.zip",
-          "Inkeys20260713a-x64.zip",
-          "Inkeys20260713a-x86.zip",
-          "UpdatePackage-Inkeys20260713a-arm64.zip",
-          "UpdatePackage-Inkeys20260713a-x64.zip",
-          "UpdatePackage-Inkeys20260713a-x86.zip"
+          "Inkeys20261019a-arm64.zip",
+          "Inkeys20261019a-x64.zip",
+          "Inkeys20261019a-x86.zip",
+          "UpdatePackage-Inkeys20261019a-arm64.zip",
+          "UpdatePackage-Inkeys20261019a-x64.zip",
+          "UpdatePackage-Inkeys20261019a-x86.zip"
         ],
-        "published_at": "2026-07-17T12:46:34Z",
+        "published_at": "2026-10-19T07:47:56Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "20260713a",
-      "tag": "20260713a"
+      "version": "20261019a",
+      "tag": "20261019a"
     }
   },
   "ClassIsland/ClassIsland": {
