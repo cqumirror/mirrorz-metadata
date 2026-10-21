@@ -101,24 +101,24 @@
     },
     "releases": [
       {
-        "version": "v2.1.7",
-        "tag": "v2.1.7",
+        "version": "v2.1.8",
+        "tag": "v2.1.8",
         "files": [
-          "balenaEtcher-2.1.7-arm64.dmg",
-          "balenaEtcher-2.1.7-x64.dmg",
-          "balenaEtcher-2.1.7.Setup.exe",
+          "balenaEtcher-2.1.8-arm64.dmg",
+          "balenaEtcher-2.1.8-x64.dmg",
+          "balenaEtcher-2.1.8.Setup.exe",
           "SHA256SUMS.Darwin.arm64.txt",
           "SHA256SUMS.Darwin.x64.txt",
           "SHA256SUMS.Linux.x64.txt",
           "SHA256SUMS.Windows.x64.txt"
         ],
-        "published_at": "2026-09-18T13:52:33Z",
+        "published_at": "2026-10-19T11:16:52Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "v2.1.7",
-      "tag": "v2.1.7"
+      "version": "v2.1.8",
+      "tag": "v2.1.8"
     }
   },
   "lxgw/LxgwWenKai": {
@@ -1141,33 +1141,33 @@
     },
     "releases": [
       {
-        "version": "7-Zip 26.04",
-        "tag": "26.04",
+        "version": "7-Zip 26.05",
+        "tag": "26.05",
         "files": [
-          "7z2604-arm.exe",
-          "7z2604-arm64.exe",
-          "7z2604-extra.7z",
-          "7z2604-linux-arm.tar.xz",
-          "7z2604-linux-arm64.tar.xz",
-          "7z2604-linux-x64.tar.xz",
-          "7z2604-linux-x86.tar.xz",
-          "7z2604-mac.tar.xz",
-          "7z2604-src.7z",
-          "7z2604-src.tar.xz",
-          "7z2604-x64.exe",
-          "7z2604-x64.msi",
-          "7z2604.exe",
-          "7z2604.msi",
+          "7z2605-arm.exe",
+          "7z2605-arm64.exe",
+          "7z2605-extra.7z",
+          "7z2605-linux-arm.tar.xz",
+          "7z2605-linux-arm64.tar.xz",
+          "7z2605-linux-x64.tar.xz",
+          "7z2605-linux-x86.tar.xz",
+          "7z2605-mac.tar.xz",
+          "7z2605-src.7z",
+          "7z2605-src.tar.xz",
+          "7z2605-x64.exe",
+          "7z2605-x64.msi",
+          "7z2605.exe",
+          "7z2605.msi",
           "7zr.exe",
-          "lzma2604.7z"
+          "lzma2605.7z"
         ],
-        "published_at": "2026-10-06T07:55:39Z",
+        "published_at": "2026-10-21T13:05:54Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "7-Zip 26.04",
-      "tag": "26.04"
+      "version": "7-Zip 26.05",
+      "tag": "26.05"
     }
   },
   "Vanilla-OS/live-iso": {
