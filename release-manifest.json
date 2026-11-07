@@ -1141,33 +1141,34 @@
     },
     "releases": [
       {
-        "version": "7-Zip 26.05",
-        "tag": "26.05",
+        "version": "7-Zip 26.06",
+        "tag": "26.06",
         "files": [
-          "7z2605-arm.exe",
-          "7z2605-arm64.exe",
-          "7z2605-extra.7z",
-          "7z2605-linux-arm.tar.xz",
-          "7z2605-linux-arm64.tar.xz",
-          "7z2605-linux-x64.tar.xz",
-          "7z2605-linux-x86.tar.xz",
-          "7z2605-mac.tar.xz",
-          "7z2605-src.7z",
-          "7z2605-src.tar.xz",
-          "7z2605-x64.exe",
-          "7z2605-x64.msi",
-          "7z2605.exe",
-          "7z2605.msi",
+          "7z2606-arm.exe",
+          "7z2606-arm64.exe",
+          "7z2606-extra.7z",
+          "7z2606-linux-arm.tar.xz",
+          "7z2606-linux-arm64.tar.xz",
+          "7z2606-linux-x64.tar.xz",
+          "7z2606-linux-x86.tar.xz",
+          "7z2606-mac-x64.tar.xz",
+          "7z2606-mac.tar.xz",
+          "7z2606-src.7z",
+          "7z2606-src.tar.xz",
+          "7z2606-x64.exe",
+          "7z2606-x64.msi",
+          "7z2606.exe",
+          "7z2606.msi",
           "7zr.exe",
-          "lzma2605.7z"
+          "lzma2606.7z"
         ],
-        "published_at": "2026-10-21T13:05:54Z",
+        "published_at": "2026-11-07T11:45:33Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "7-Zip 26.05",
-      "tag": "26.05"
+      "version": "7-Zip 26.06",
+      "tag": "26.06"
     }
   },
   "Vanilla-OS/live-iso": {
