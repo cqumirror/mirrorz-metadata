@@ -339,21 +339,21 @@
     },
     "releases": [
       {
-        "version": "3.0.3",
-        "tag": "3.0.3",
+        "version": "3.0.5",
+        "tag": "3.0.5",
         "files": [
-          "Microsoft.WSL.Containers.3.0.3.nupkg",
-          "Microsoft.WSL_3.0.3.0_x64_ARM64.msixbundle",
-          "wsl.3.0.3.0.arm64.msi",
-          "wsl.3.0.3.0.x64.msi"
+          "Microsoft.WSL.Containers.3.0.5.nupkg",
+          "Microsoft.WSL_3.0.5.0_x64_ARM64.msixbundle",
+          "wsl.3.0.5.0.arm64.msi",
+          "wsl.3.0.5.0.x64.msi"
         ],
-        "published_at": "2026-10-09T18:21:40Z",
+        "published_at": "2026-11-03T00:06:30Z",
         "pre_release": false
       }
     ],
     "latest": {
-      "version": "3.0.3",
-      "tag": "3.0.3"
+      "version": "3.0.5",
+      "tag": "3.0.5"
     }
   },
   "mofeng-git/One-KVM": {
